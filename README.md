@@ -2,7 +2,7 @@
 This task focuses on building a **Support Vector Machine (SVM)** model to classify images of cats and dogs as part of my Machine Learning internship at Prodigy InfoTech. The goal is to use a large dataset of labeled images to train the model to accurately distinguish between the two categories (cats and dogs), and evaluate its performance on a test dataset.
 
 ## 📁 Files in this Repository
-`Prodigy_ML_Task_3.ipynb:` Jupyter Notebook implementing the SVM model for image classification.<br>
+`Task-3.ipynb:` Jupyter Notebook implementing the SVM model for image classification.<br>
 `submission.csv:` CSV file containing the output predictions (class labels for the test set images).<br>
 
 ## 📊 Dataset Overview
